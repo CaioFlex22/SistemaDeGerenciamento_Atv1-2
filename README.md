@@ -1,4 +1,4 @@
-# Atividade 1: Sistema de Gerenciamento de Biblioteca | Atividade 2: Sistema de Gerenciamento de Inventário
+# Atividade 1: Sistema de Gerenciamento de Biblioteca Atividade 2: Sistema de Gerenciamento de Inventário
 Test 2 descr
 O desenvolvimento de aplicativos móveis é uma área essencial da tecnologia moderna, com plataformas como iOS desempenhando um papel central. A linguagem Swift, criada pela Apple, é uma das mais populares e poderosas para o desenvolvimento de aplicações no ecossistema iOS. Um dos princípios fundamentais no desenvolvimento de software moderno, especialmente com Swift, é a Orientação a Objetos (OO), que permite criar sistemas mais modulares, reutilizáveis e organizados.
 
