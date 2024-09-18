@@ -7,7 +7,7 @@ A classe Autor armazena informações sobre o autor do livro.
 A classe Usuario gerencia os usuários da biblioteca, permitindo que eles peguem livros emprestados ou devolvam livros.
 O sistema permite a criação de instâncias de livros, autores e usuários, além de realizar operações de empréstimo e devolução.
 
-O projeto esta disponivel para download em SGLivros.zip.
+O projeto esta disponivel para download em **SGLivros.zip**.
 
 # Atividade 2: Sistema de Gerenciamento de Inventário
 O código implementa um sistema de gerenciamento de inventário para uma loja de eletrônicos. Ele define uma estrutura Produto e a classe GerenciadorDeInventario, onde:
@@ -18,4 +18,4 @@ O sistema também exibe informações detalhadas sobre os produtos e permite uma
 
 Esses códigos modelam sistemas simples, aplicando princípios da Orientação a Objetos e manipulação de dados.
 
-O projeto esta disponivel para download em SGInventario.zip.
+O projeto esta disponivel para download em **SGInventario.zip**.
